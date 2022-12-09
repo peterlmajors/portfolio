@@ -7,7 +7,7 @@ I am an aspiring Data Scientist / ML Engineer proficient in Python, R and SQL, w
 
 Relevant Work:
 
-Summer 2022 Finance Innovation and Technology Intern @ Marsh McLennan
+1. Summer 2022 Finance Innovation and Technology Intern @ Marsh McLennan
     - Incoming Systems Engineer (Summer 2023)
 
 Relevant Case Competitions:
