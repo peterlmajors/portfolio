@@ -10,7 +10,7 @@ Relevant Work:
 Summer 2022 Finance Innovation and Technology Intern @ Marsh McLennan
   - Incoming Systems Engineer (Summer 2023)
 
-Case Competitions:
+Relevant Case Competitions:
 
 Spring 2022 March Data Cruch Madness hosted by Fordham University Graduate Gabelli School of Business
   - 3rd Place (of over 20) Teams
