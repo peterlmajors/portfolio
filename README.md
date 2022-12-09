@@ -2,7 +2,7 @@ Hello, my name is Peter Majors, and I'm currently an undergraduate student at Fo
 
 I am studying Accounting, Information Systems, and Computer Science and will be graduating in Spring 2023! 
 
-I am an aspiring Data Scientist / ML Engineer proficient in Python, R and SQL, while continuing to learn C++, HTML, and CSS. My academic interests involve supervised learning, feature engineering, and Bayesian methods.
+I am an aspiring Data Scientist / ML Engineer proficient in Python, R and SQL, while continuing to learn C++, HTML, and CSS. My academic interests involve supervised learning, feature engineering, and Bayesian methods. I have a deep appreciation and understanding of sports analytics and statistics. Looking to translate this skillset in the business or professional sports world.
 
 For now, this account will store personal projects related to sports analytics research, case competitions, and academic assignements.
 
