@@ -20,5 +20,10 @@ Spring 2022 Syracuse Football Analytics Blitz
   - Top 4 (of 17) Teams
   - Utilized Logistic Regression to predict type of plays run by Kansas City Chiefs offense and develop a defensive playbook.
 
+Relevant Academic Work:
+
+Kelly's Small Shop Analytics Dashboard
+  - Built an R Shiny Application for a small crafts store in New Jersey to vizualize and analyze product, order, and customer data.
+
 Twitter: [@petermajors](https://twitter.com/PeterLMajors)
 LinkedIn: https://www.linkedin.com/in/petermajors/
