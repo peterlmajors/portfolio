@@ -14,7 +14,7 @@ Relevant Case Competitions:
 
 Spring 2022 March Data Cruch Madness hosted by Fordham University Graduate Gabelli School of Business
   - 3rd Place (of over 20) Teams
-  - Utilized XGBoost to predict every possible result of every possible NCAA 2022 March Madness matchup with college basketball statistics scraped from kenpom.com
+  - Utilized XGBoost to predict every possible result of every possible NCAA 2022 March Madness matchup with advanced college basketball statistics from kenpom.com
 
 Spring 2022 Syracuse Football Analytics Blitz 
   - Top 4 (of 17) Teams
