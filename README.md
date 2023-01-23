@@ -23,7 +23,7 @@ Relevant Case Competitions:
 Relevant Academic Work:
 
 1. Kelly's Small Shop Analytics Dashboard
-  - Built an R Shiny Application for a small crafts store in New Jersey to vizualize and analyze product, order, and customer data.
+  - R Shiny Application for a small crafts store in New Jersey to vizualize and analyze product, order, and customer data.
 
 Twitter: [@petermajors](https://twitter.com/PeterLMajors)
 LinkedIn: https://www.linkedin.com/in/petermajors/
