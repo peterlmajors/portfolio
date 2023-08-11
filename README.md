@@ -1,14 +1,7 @@
-Hello, my name is Peter Majors, and I'm currently an undergraduate student at Fordham University in New York City. 
-
-I am studying Accounting, Information Systems, and Computer Science and will be graduating in Spring 2023! 
-
-I am an aspiring Data Scientist / ML Engineer proficient in Python, R and SQL, while continuing to learn C++, HTML, and CSS. Founder and President of the Fordham Sports Anaytics Society. My academic interests involve supervised learning, feature engineering, and Bayesian methods. I have a deep appreciation and understanding of sports analytics and statistics. Looking to translate this skillset in the business or professional sports world. For now, this account will store personal projects related to sports analytics research, case competitions, and academic assignements.
+Hello, my name is Peter Majors, and I'm currently an Systems Engineer @ Marsh McLennan. 
 
 
-Relevant Work:
-
-1. Summer 2022 Finance Innovation and Technology Intern @ Marsh McLennan
-    - Incoming Systems Engineer (Summer 2023)
+I am a recent grsduate of Fordham University in New York City, where I was the founder and president of the Fordham Sports Anaytics Society. My academic interests involve supervised learning, feature engineering, and bayesian methods. I have a broaf understanding of sports analytics and statistics, and am looking to translate this skillset into a career. For now, this account will store personal projects related to sports analytics research, case competitions, and academic assignements.
 
 Relevant Case Competitions:
 
