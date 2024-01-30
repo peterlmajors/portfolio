@@ -22,5 +22,9 @@ Academic Work:
 1. Kelly's Small Shop Analytics Dashboard
   - R Shiny Application for a small crafts store in New Jersey to vizualize and analyze product, order, and customer data.
 
+2. Computer Science 2 Final Project
+  - Generates report displaying members of each course as well as the number of spots remaining to user from local .txt file.
+  - Utiziled friend functons, I/O Parsing, and Elements of OOP
+
 Twitter: [@petermajors](https://twitter.com/PeterLMajors)
 LinkedIn: [petermajors](https://www.linkedin.com/in/petermajors/)
