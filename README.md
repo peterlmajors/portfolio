@@ -1,6 +1,6 @@
 Hello, my name is Peter Majors, and I'm currently an Systems Engineer @ Marsh McLennan. 
 
-I am a recent graduate of Fordham University in New York City, where I was the founder and president of the Fordham Sports Anaytics Society. I work with Python, R, SQL, and Javascript - and my techincal areas of interest include ML & Statistics, SQL Databases, and API Development. Within machine learning & statistics, my interests include supervised learning, feature engineering, and bayesian methods. I have a broad understanding of sports analytics and statistics, and am looking to translate this skillset into a career. For now, this account will store personal projects related to sports analytics research, case competitions, and academic assignements.
+I am a recent graduate of Fordham University in New York City, where I was the founder and president of the Fordham Sports Anaytics Society. I work with Python, R, SQL, and Javascript - and my techincal areas of interest include statistics, machine learning, SQL databases, and API development. Within machine learning & statistics, my interests include supervised learning, feature engineering, and bayesian methods. I have a broad understanding of sports analytics and statistics, and am looking to translate this skillset into a career. For now, this account will store personal projects related to sports analytics research, case competitions, and academic assignements.
 
 Case Competitions:
 
