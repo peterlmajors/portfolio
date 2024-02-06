@@ -16,15 +16,6 @@ Case Competitions:
 3. Spring 2022 Syracuse Football Analytics Blitz [Presentation](https://www.linkedin.com/posts/petermajors_2022-football-analytics-blitz-presentation-activity-6903800461774647296-yDIk?utm_source=share&utm_medium=member_desktop)
   - Placed in top 4 of 17 teams, created and presented on the optimal game plan to defend the Kansas City Chiefs
   - Utilized Logistic Regression to predict type of plays run by Kansas City Chiefs offense and develop a defensive playbook
-
-Academic Work:
-
-1. Kelly's Small Shop Analytics Dashboard
-  - R Shiny Application for a small crafts store in New Jersey to vizualize and analyze product, order, and customer data.
-
-2. Computer Science 2 Final Project
-  - Generates report displaying members of each course as well as the number of spots remaining to user from local .txt file.
-  - Utiziled friend functons, I/O Parsing, and Elements of OOP
-
+    
 Twitter: [@petermajors](https://twitter.com/PeterLMajors)
 LinkedIn: [petermajors](https://www.linkedin.com/in/petermajors/)
