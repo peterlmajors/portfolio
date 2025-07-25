@@ -17,9 +17,9 @@ function App() {
       <main className="main">
         <section className="intro-flex">
           <img src={process.env.PUBLIC_URL + '/personal/pfp.JPG'} alt="Peter Majors profile" className="profile-pic" />
-          <p>Peter Majors is an application developer at Marsh McLennan, building financial applications and and research tools with 
-            language models. As founder of Fordham's Sports Analytics Society, he performed research, competed in case competitions, and led community 
-            initiatives at the intersection of sports and technology.</p>
+          <p>Peter Majors is a developer at Marsh McLennan, building financial applications and and research tools with 
+            language models. As a student at Fordham, he performed independent research and competed in case competitions 
+            in sports analytics. </p>
         </section>
         <section>
           <h2>Case Competitions</h2>
@@ -31,7 +31,7 @@ function App() {
           </ul>
         </section>
         <section>
-          <h2>Sports Analytics Research</h2>
+          <h2>Research</h2>
           <ul>
             <li><a href="/research/Quantifying%20The%20Different%20Look.pdf" target="_blank" rel="noopener noreferrer">Quantifying The Different Look (PDF)</a></li>
             <li><a href="https://fordhamsas.wixsite.com/website/post/what-makes-a-cy-a-study-of-volume-and-efficiency-in-cy-young-voting" target="_blank" rel="noopener noreferrer">What Makes A Cy? A Study in Volume and Efficiency (Blog)</a></li>
