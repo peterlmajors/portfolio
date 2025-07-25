@@ -7,7 +7,7 @@ function App() {
       <header className="header">
         <h1>Peter Majors</h1>
         <div className="nav-links">
-          <a href="/personal/petermajors_resume.pdf" target="_blank" rel="noopener noreferrer">Resume</a>
+          <a href={process.env.PUBLIC_URL + '/personal/petermajors_resume.pdf'} target="_blank" rel="noopener noreferrer">Resume</a>
           <span className="nav-sep">|</span>
           <a href="https://www.linkedin.com/in/petermajors/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
           <span className="nav-sep">|</span>
@@ -24,10 +24,10 @@ function App() {
         <section>
           <h2>Case Competitions</h2>
           <ul>
-            <li><a href="https://github.com/peterlmajors/Offensive-Linemen-Immediate-Zone" target="_blank" rel="noopener noreferrer">2023 NFL Big Data Bowl: Offensive-Linemen-Immediate-Zone (GitHub)</a></li>
-            <li><a href="/case_compeititons/2022%20March%20Data%20Crunch%20Madness.pdf" target="_blank" rel="noopener noreferrer">2022 Fordham March Data Crunch Madness (PDF)</a></li>
-            <li><a href="/case_compeititons/2022%20Syracuse%20Football%20Analytics%20Blitz.pdf" target="_blank" rel="noopener noreferrer">2022 Syracuse Football Analytics Blitz (PDF)</a></li>
-            <li><a href="/case_compeititons/2022%20Milwaukee20Bucks%20Hackathon.pdf" target="_blank" rel="noopener noreferrer">2022 Milwaukee Bucks Hackathon (PDF)</a></li>
+            <li><a href="https://github.com/peterlmajors/Offensive-Linemen-Immediate-Zone" target="_blank" rel="noopener noreferrer">2023 NFL Big Data Bowl (GitHub)</a></li>
+            <li><a href={process.env.PUBLIC_URL + '/case_compeititons/2022%20March%20Data%20Crunch%20Madness.pdf'} target="_blank" rel="noopener noreferrer">2022 Fordham March Data Crunch Madness (PDF)</a></li>
+            <li><a href={process.env.PUBLIC_URL + '/case_compeititons/2022%20Syracuse%20Football%20Analytics%20Blitz.pdf'} target="_blank" rel="noopener noreferrer">2022 Syracuse Football Analytics Blitz (PDF)</a></li>
+            <li><a href={process.env.PUBLIC_URL + '/case_compeititons/2022%20Milwaukee%20Bucks%20Hackathon.pdf'} target="_blank" rel="noopener noreferrer">2022 Milwaukee Bucks Hackathon (PDF)</a></li>
           </ul>
         </section>
         <section>
