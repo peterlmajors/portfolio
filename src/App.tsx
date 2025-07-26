@@ -33,7 +33,7 @@ function App() {
         <section>
           <h2>Research</h2>
           <ul>
-            <li><a href="/research/Quantifying%20The%20Different%20Look.pdf" target="_blank" rel="noopener noreferrer">Quantifying The Different Look (PDF)</a></li>
+            <li><a href={process.env.PUBLIC_URL + "/research/Quantifying%20The%20Different%20Look.pdf"} target="_blank" rel="noopener noreferrer">Quantifying The Different Look (PDF)</a></li>
             <li><a href="https://fordhamsas.wixsite.com/website/post/what-makes-a-cy-a-study-of-volume-and-efficiency-in-cy-young-voting" target="_blank" rel="noopener noreferrer">What Makes A Cy? A Study in Volume and Efficiency (Blog)</a></li>
             <li><a href="https://fordhamsas.wixsite.com/website/post/the-yankees-2021-rotation-a-study-in-tommy-john-recovery" target="_blank" rel="noopener noreferrer">The Yankees 2021 Rotation: A Study in Tommy John Recovery (Blog)</a></li>
             <li><a href="https://fordhamsas.wixsite.com/website/post/the-wild-and-wacky-2020-mlb-season-which-statistics-can-we-trust" target="_blank" rel="noopener noreferrer">The Wild 2020 MLB Season: Which Statistics Can We Trust? (Blog)</a></li>
