@@ -17,7 +17,7 @@ function App() {
       <main className="main">
         <section className="intro-flex">
           <img src={process.env.PUBLIC_URL + '/personal/pfp.JPG'} alt="Peter Majors profile" className="profile-pic" />
-          <p>Peter Majors is a developer at Marsh McLennan, building financial applications and and research tools with 
+          <p>Peter Majors is a developer at Marsh McLennan, building financial applications and research tools with 
             language models. As a student at Fordham, he performed independent research and competed in case competitions 
             in sports analytics. </p>
         </section>
