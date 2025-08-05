@@ -1,1 +1,1 @@
-Welcome to my GitHub - my personal site can be found [here](https://peterlmajors.github.io/peterlmajors/).
+Welcome to my GitHub - my personal site can be found [here](https://peterlmajors.github.io/portfolio/).
