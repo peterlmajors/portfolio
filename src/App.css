@@ -8,28 +8,28 @@ body, .main-bg {
 .header {
   background: #111;
   color: #fff;
-  padding: 32px 0 24px 0;
+  padding: 32px 0 16px 0;
   text-align: center;
   letter-spacing: 1px;
   box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
   border-bottom: 4px solid #ffb366; /* orange accent */
 }
 .header h1 {
-  margin: 0 0 8px 0;
+  margin: 0 0 12px 0;
   font-size: 2.5rem;
   font-weight: 700;
   text-shadow: 0 2px 8px rgba(135, 208, 245, 0.08);
   letter-spacing: 2px;
 }
 .nav-links {
-  margin: 0 0 8px 0;
+  margin: 0;
 }
 .nav-links a {
   color: #fff;
   text-decoration: none;
   margin: 0 18px;
   font-weight: 500;
-  font-size: 1.1rem;
+  font-size: 1.2rem;
   padding: 2px 8px;
   border-radius: 4px;
 }
@@ -39,13 +39,27 @@ body, .main-bg {
 .nav-links a:hover {
   color: #dddddd;
 }
+.nav-links .icon-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 4px;
+  margin: 0 12px;
+  transition: all 0.3s ease;
+}
+.nav-links .icon-link:hover {
+  opacity: 0.8;
+}
+.nav-links .icon-link svg {
+  display: block;
+}
 .nav-sep {
   color: #87d0f5;
 }
 .main {
   background: #fff;
   width: calc(90vw - 10%);
-  max-width: 900px;
+  max-width: 750px;
   margin: 36px auto 0 auto;
   margin-bottom: 36px;
   padding: 32px 24px 48px 24px;
@@ -86,6 +100,9 @@ a:hover {
   margin-bottom: 20px;
   flex-wrap: nowrap;
 }
+.intro-flex p {
+  font-size: 1.05rem;
+}
 .profile-pic {
   display: block;
   margin: 0;
@@ -124,7 +141,7 @@ a:hover {
     flex-shrink: 0;
   }
   .intro-flex p {
-    font-size: 0.95rem;
+    font-size: 1.05rem;
     line-height: 1.4;
     flex: 1;
     min-width: 0;
