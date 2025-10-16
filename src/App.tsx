@@ -42,7 +42,7 @@ function App() {
             <li>
               <a href="https://github.com/peterlmajors/lox-genie" target="_blank" rel="noopener noreferrer">Lox Genie (GitHub) (In Development)</a>
               <ul>
-                <li>Agentic fantasy football consultant, with MCP server and vLLM inference</li>
+                <li>Agentic fantasy football consultant, with MCP server and llama.cpp inference</li>
               </ul>
             </li>
           </ul>
@@ -83,25 +83,25 @@ function App() {
             <li>
               <a href="https://fordhamsas.wixsite.com/website/post/what-makes-a-cy-a-study-of-volume-and-efficiency-in-cy-young-voting" target="_blank" rel="noopener noreferrer">What Makes A Cy? A Study in Volume and Efficiency (Blog)</a>
               <ul>
-                <li>Explored the evolution of MLB CY Young voting preferences over the past 70 years</li>
+                <li>Explored evolution of MLB CY Young voting preferences over the past 70 years</li>
               </ul>
             </li>
             <li>
               <a href="https://fordhamsas.wixsite.com/website/post/the-yankees-2021-rotation-a-study-in-tommy-john-recovery" target="_blank" rel="noopener noreferrer">The Yankees 2021 Rotation: A Study in Tommy John Recovery (Blog)</a>
               <ul>
-                <li>Analyzed the impact of Tommy John surgery on MLB pitcher statistics</li>
+                <li>Analyzed impact of Tommy John surgery on MLB pitcher statistics</li>
               </ul>
             </li>
             <li>
               <a href="https://fordhamsas.wixsite.com/website/post/the-wild-and-wacky-2020-mlb-season-which-statistics-can-we-trust" target="_blank" rel="noopener noreferrer">The Wild 2020 MLB Season: Which Statistics Can We Trust? (Blog)</a>
               <ul>
-                <li>Assessed the reliability of MLB hitting statistics from the abbreviated 2020 season</li>
+                <li>Assessed reliability of MLB hitting statistics from the abbreviated 2020 season</li>
               </ul>
             </li>
             <li>
               <a href="https://fordhamsas.wixsite.com/website/post/how-anyone-can-calculate-league-normalized-statistics-ops-and-wrc" target="_blank" rel="noopener noreferrer">How Truly Anyone Can Calculate League Normalized Stats (Blog)</a>
               <ul>
-                <li>Tutorial on calculating OPS+ and WRC+ for non-professional baseball leagues</li>
+                <li>Derived OPS+ and WRC+ for non-professional baseball leagues from scratch</li>
               </ul>
             </li>
           </ul>
