@@ -37,7 +37,7 @@ function App() {
           </p>
         </section>
         <section>
-          <h2>Current Work</h2>
+          <h2>Current Side Project</h2>
           <ul>
             <li>
               <a href="https://github.com/peterlmajors/lox-genie" target="_blank" rel="noopener noreferrer">Lox Genie (GitHub) (In Development)</a>
