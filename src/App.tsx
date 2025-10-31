@@ -32,12 +32,12 @@ function App() {
         <section className="intro-flex">
           <img src={process.env.PUBLIC_URL + '/personal/pfp.JPG'} alt="Peter Majors profile" className="profile-pic" />
           <p>
-            Peter Majors is a developer at Marsh McLennan, building financial reporting applications and research tools powered by language models. At Fordham, he 
-            founded and led the Sports Analytics Society for three years - where the group's research efforts sparked his interest in software and data science.
+            Peter is a developer at Marsh McLennan, building financial reporting applications and research tools powered by language models. At Fordham, he 
+            founded and led the Sports Analytics Society for three years. The group's research sparked his interest in software and data science.
           </p>
         </section>
         <section>
-          <h2>Current Side Project</h2>
+          <h2>Currently Building</h2>
           <ul>
             <li>
               <a href="https://github.com/peterlmajors/lox-genie" target="_blank" rel="noopener noreferrer">Lox Genie (GitHub) (In Development)</a>
@@ -96,12 +96,6 @@ function App() {
               <a href="https://fordhamsas.wixsite.com/website/post/the-wild-and-wacky-2020-mlb-season-which-statistics-can-we-trust" target="_blank" rel="noopener noreferrer">The Wild 2020 MLB Season: Which Statistics Can We Trust? (Blog)</a>
               <ul>
                 <li>Assessed reliability of MLB hitting statistics from the abbreviated 2020 season</li>
-              </ul>
-            </li>
-            <li>
-              <a href="https://fordhamsas.wixsite.com/website/post/how-anyone-can-calculate-league-normalized-statistics-ops-and-wrc" target="_blank" rel="noopener noreferrer">How Truly Anyone Can Calculate League Normalized Stats (Blog)</a>
-              <ul>
-                <li>Derived OPS+ and WRC+ for non-professional baseball leagues from scratch</li>
               </ul>
             </li>
           </ul>
