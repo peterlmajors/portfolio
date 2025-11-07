@@ -1,6 +1,8 @@
 :root {
   color-scheme: light;
-  --bg-gradient: linear-gradient(135deg, #f5e5db 0%, #e5effc 100%);
+  --bg-gradient:
+    radial-gradient(circle at 50% 25%, rgba(255, 248, 242, 0.82) 0%, rgba(254, 240, 226, 0.28) 45%, rgba(251, 234, 216, 0.15) 70%, rgba(247, 222, 198, 0.14) 100%),
+    linear-gradient(90deg, #f5dec7 0%, #f9e7d5 30%, #fcefdc 50%, #f9e7d5 70%, #f5dec7 100%);
   --text-color: #222;
   --card-bg: #fff;
   --header-bg: #111;
