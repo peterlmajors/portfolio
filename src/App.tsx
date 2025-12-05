@@ -164,10 +164,7 @@ function App() {
           <h2>Study Materials</h2>
           <ul>
             <li>
-              <a href="https://www.notion.so/LLM-Resources-1b2c8885d18f8011b438d7b38c48331e?pvs=21" target="_blank" rel="noopener noreferrer">Large Language Models (Notion Site)</a>
-              <ul>
-                <li>Personal collection of blogs and research papers on LLMs and deep learning</li>
-              </ul>
+              <a href="https://fortune-galley-73d.notion.site/Peter-s-Tech-Resources-1b2c8885d18f8011b438d7b38c48331e?source=copy_link" target="_blank" rel="noopener noreferrer">Technology Resources (Notion Site)</a>
             </li>
           </ul>
         </section>
